@@ -1,7 +1,7 @@
-Cluster: jasper-dev
-Hostport: 80
-ContainerPort: 3333
-Protocol: tcp
-ContainerName: demo-app
-Image: mimontpe/esc-demo:white
-TaskDefinition: def-jasper
+cluster: jasper-dev
+hostport: 80
+imageport: 3333
+protocol: tcp
+container: demo-app
+image: mimontpe/esc-demo:white
+definition: def-jasper
