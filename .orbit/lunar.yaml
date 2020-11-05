@@ -1,1 +1,7 @@
-image: golang:1.4
+Cluster: jasper-dev
+Hostport: 80
+ContainerPort: 3333
+Protocol: tcp
+ContainerName: demo-app
+Image: mimontpe/esc-demo:white
+TaskDefinition: def-jasper
