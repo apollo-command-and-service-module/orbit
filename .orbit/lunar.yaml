@@ -5,3 +5,5 @@ protocol: tcp
 container: demo-app
 image: mimontpe/esc-demo:blue
 definition: def-jasper
+service: jasperservice
+desiredcount: 0
