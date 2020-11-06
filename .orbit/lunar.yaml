@@ -1,9 +1,10 @@
+url: http://ec2-lb-989396622.us-east-1.elb.amazonaws.com/
 cluster: jasper-dev
 hostport: 80
 imageport: 3333
 protocol: tcp
 container: demo-app
-image: mimontpe/esc-demo:pink
+image: mimontpe/esc-demo:white
 definition: def-jasper
 service: jasperservice
 desiredcount: 3
