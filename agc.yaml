@@ -1,5 +1,9 @@
 repos:
-- name: public
+- name: Apollo7
+  url: https://github.com/apollo-command-and-service-module/orbit.git
+  branch: main
+  config: config.yaml
+- name: Apollo8
   url: https://github.com/apollo-command-and-service-module/orbit.git
   branch: main
   config: config.yaml
