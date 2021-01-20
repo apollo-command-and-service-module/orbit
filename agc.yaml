@@ -1,0 +1,5 @@
+repos:
+- name: public
+  url: https://github.com/apollo-command-and-service-module/orbit.git
+  branch: main
+  config: config.yaml
