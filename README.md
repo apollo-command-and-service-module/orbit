@@ -1,3 +1,3 @@
 # orbit
-Dummy public project to investigate frameworks
+Dummy public repo for testing
 
