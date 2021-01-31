@@ -7,4 +7,4 @@ container: demo-app
 image: mimontpe/esc-demo:yellow
 definition: def-jasper
 service: jasperservice
-desiredcount: 3
+desiredcount: 1
