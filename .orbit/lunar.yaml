@@ -7,4 +7,4 @@ container: demo-app
 image: mimontpe/esc-demo:fuchsia
 definition: def-jasper
 service: jasperservice
-desiredcount: 1
+desiredcount: 2
