@@ -4,7 +4,7 @@ hostport: 80
 imageport: 3333
 protocol: tcp
 container: demo-app
-image: mimontpe/esc-demo:dimgray
+image: mimontpe/esc-demo:white
 definition: def-jasper
 service: jasperservice
 desiredcount: 2
