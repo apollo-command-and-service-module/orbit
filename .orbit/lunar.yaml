@@ -1,4 +1,4 @@
-url: http://ec2-lb-989396622.us-east-1.elb.amazonaws.com/
+url: http://apollo.aws.mysitedeploy.com/
 cluster: jasper-dev
 hostport: 80
 imageport: 3333
